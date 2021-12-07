@@ -1,0 +1,20 @@
+.content {
+	max-width:800px;
+	margin-bottom:10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+	&__forecast{
+		font-size: 20px;
+	}
+
+}
+.column {
+	padding-right: 10px;
+}
+
+@media(min-width: 576px){
+	.space {
+		padding: 20px;
+	}
+}
